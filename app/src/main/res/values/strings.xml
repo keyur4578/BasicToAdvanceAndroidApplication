@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="calculate_button">Add</string>
+
+
+    <string-array name="subjects">
+        <item>Gujarati</item>
+        <item>English</item>
+        <item>Hindi</item>
+    </string-array>
+
+
+</resources>
