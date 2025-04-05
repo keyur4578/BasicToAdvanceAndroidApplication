@@ -15,22 +15,24 @@
         android:theme="@style/Theme.MyFirstApplication"
         tools:targetApi="31">
         <activity
-            android:name=".RelativeLayoutExample"
+            android:name=".TableGridSwitchActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
-            android:name=".FragmentExampleActivity"
-            android:exported="false">
+            android:name=".RelativeLayoutExample"
+            android:exported="true">
 
         </activity>
         <activity
-            android:name=".FrameLayoutExample"
+            android:name=".FragmentExampleActivity"
             android:exported="false"></activity>
+        <activity
+            android:name=".FrameLayoutExample"
+            android:exported="false" />
         <activity
             android:name=".RatingWebviewSeek"
             android:exported="false" />
