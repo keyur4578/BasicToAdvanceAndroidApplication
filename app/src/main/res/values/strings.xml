@@ -2,6 +2,8 @@
     <string name="app_name">MyFirstApplication</string>
     <string name="calculate_button">Add</string>
 
+    <string name="open_drawer">Open Navigation</string>
+    <string name="close_drawer">Close Navigation</string>
 
     <string-array name="subjects">
         <item>Gujarati</item>
